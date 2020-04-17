@@ -1,0 +1,1 @@
+# StereoTool-Settings
